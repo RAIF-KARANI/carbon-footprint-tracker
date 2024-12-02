@@ -116,5 +116,5 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 ---
 
 ## 🌐 **Connect**
-- GitHub: [Your Profile](https://github.com/your-username)
-- Email: your-email@example.com
+- GitHub: [RAIF-KARANI](https://github.com/RAIF-KARANI)
+- Email: karaniraif@gamil.com
