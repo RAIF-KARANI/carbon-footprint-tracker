@@ -1,0 +1,6 @@
+{"distance": 5.0, "riders": 1, "fuel_type": "1", "traffic": "1", "idle_time": 13, "is_nighttime": false, "emissions_saved": 1385.0}
+{"distance": 12.0, "riders": 1, "fuel_type": "1", "traffic": "1", "idle_time": 10, "is_nighttime": false, "emissions_saved": 3112.0}
+{"distance": 12.0, "riders": 1, "fuel_type": "2", "traffic": "2", "idle_time": 11, "is_nighttime": false, "emissions_saved": 3122.0}
+{"distance": 7.5, "riders": 2, "fuel_type": "1", "traffic": "2", "idle_time": 7, "is_nighttime": false, "emissions_saved": 1011.25}
+{"distance": 11.0, "riders": 2, "fuel_type": "petrol", "traffic": "light", "idle_time": 6, "is_nighttime": false, "emissions_saved": 1440.5}
+{"distance": 15.0, "riders": 2, "fuel_type": "ev", "traffic": "moderate", "idle_time": 6, "is_nighttime": true, "emissions_saved": 60.0}
